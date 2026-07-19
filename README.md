@@ -19,21 +19,23 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/harsh-goel-hg07012002">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+
+<a href="https://www.linkedin.com/in/harsh-goel-hg07012002/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://www.instagram.com/_harsh0701/">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+  <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
 <a href="https://www.hackerrank.com/harshgoel0701">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45"/>
 </a>
 
 <a href="https://www.hackerearth.com/@harshgoel0701">
-<img src="https://www.svgrepo.com/show/330541/hackerearth.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="45"/>
 </a>
+
 </p>
 
 ---
@@ -42,7 +44,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,tailwind,flutter,mysql,git,github,vscode,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,tailwind,flutter,mysql,git,github,vscode,linux&perline=7"/>
 
 </p>
 
