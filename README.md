@@ -1,33 +1,69 @@
-<h1 align="center">Hi 👋, I'm HARSH GOEL</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Harsh Goel</h1>
+<h3 align="center">Frontend Developer | React Developer | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh070102&label=Profile%20views&color=0e75b6&style=flat" alt="harsh070102" /> </p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Developer;Flutter+Enthusiast;Always+Learning+New+Things" />
+</p>
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harsh-goel-hg07012002/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-goel-hg07012002" height="30" width="40" />
+## 🚀 About Me
+
+- 🌱 Currently learning **React & Full Stack Development**
+- 💻 Love building beautiful UI/UX
+- 📱 Interested in Android & Cross Platform Apps
+- ⚡ Fun fact: I enjoy turning ideas into real products.
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/harsh-goel-hg07012002">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://www.hackerrank.com/harshgoel0701" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshgoel0701" height="30" width="40" />
+<a href="https://www.instagram.com/_harsh0701/">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
-<a href="https://www.hackerearth.com/@harshgoel0701" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="harshgoel0701" height="30" width="40" />
+<a href="https://www.hackerrank.com/harshgoel0701">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="50"/>
 </a>
 
-<a href="https://www.instagram.com/_harsh0701/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_harsh0701" height="30" width="40" />
+<a href="https://www.hackerearth.com/@harshgoel0701">
+<img src="https://www.svgrepo.com/show/330541/hackerearth.svg" height="50"/>
 </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 💻 Languages & Tools
 
+<p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsh070102&show_icons=true&locale=en" alt="harsh070102" /></p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,tailwind,flutter,mysql,git,github,vscode,linux&perline=8"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsh070102&" alt="harsh070102" /></p>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=harsh070102&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=harsh070102&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
